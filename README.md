@@ -1,1 +1,1 @@
-# edgedb_sample
+# EdgeDB Sample
